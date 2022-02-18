@@ -9,14 +9,14 @@
 #define SOCI_H_INCLUDED
 
 // namespace soci
-#include "soci/soci-platform.h"
-#include "soci/backend-loader.h"
-#include "soci/blob.h"
-#include "soci/blob-exchange.h"
-#include "soci/column-info.h"
-#include "soci/connection-pool.h"
-#include "soci/error.h"
-#include "soci/exchange-traits.h"
+#include "soci-platform.h"
+#include "backend-loader.h"
+#include "blob.h"
+#include "blob-exchange.h"
+#include "column-info.h"
+#include "connection-pool.h"
+#include "error.h"
+#include "exchange-traits.h"
 #include "soci/into.h"
 #include "soci/into-type.h"
 #include "soci/once-temp-type.h"
