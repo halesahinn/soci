@@ -8,7 +8,7 @@
 #ifndef SOCI_BOOST_GREGORIAN_DATE_H_INCLUDED
 #define SOCI_BOOST_GREGORIAN_DATE_H_INCLUDED
 
-#include "soci/type-conversion-traits.h"
+#include "type-conversion-traits.h"
 // boost
 #include <boost/date_time/gregorian/gregorian_types.hpp>
 #include <boost/date_time/gregorian/conversion.hpp>
